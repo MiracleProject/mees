@@ -9,15 +9,19 @@ class Singleton
     public static SingletonList:Array<any> = [];
 
     public static SingletonCount:number = 0;
-
+    /**
+     * stupid B<
+     */
     public static Singleton<T>(c:new (id:number)=> T):T
     {
-        if(this.SingletonList[c])
+        for(let key in this.SingletonList)
         {
-
+            if(this.SingletonList[key] instanceof c)
+            {
+                return this.SingletonList[key];
+            }
         }
-        let s = new c(this.SingletonCount);
-        return s;
+        return new c(this.SingletonCount);
     }
 
     public SingletonID:number;
