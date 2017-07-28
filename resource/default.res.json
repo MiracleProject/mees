@@ -1,0 +1,70 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,ball_png,circle_png,bomb_png,setting_png,ball1_png,circle1_png,arrow_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/ball.png",
+			"type": "image",
+			"name": "ball_png"
+		},
+		{
+			"url": "assets/circle.png",
+			"type": "image",
+			"name": "circle_png"
+		},
+		{
+			"url": "assets/ball.png",
+			"type": "image",
+			"name": "ball2_png"
+		},
+		{
+			"url": "assets/circle.png",
+			"type": "image",
+			"name": "circle2_png"
+		},
+		{
+			"url": "assets/bomb.png",
+			"type": "image",
+			"name": "bomb_png"
+		},
+		{
+			"url": "assets/setting.png",
+			"type": "image",
+			"name": "setting_png"
+		},
+		{
+			"name": "ball1_png",
+			"type": "image",
+			"url": "assets/ball1.png"
+		},
+		{
+			"name": "circle1_png",
+			"type": "image",
+			"url": "assets/circle1.png"
+		},
+		{
+			"name": "arrow_png",
+			"type": "image",
+			"url": "assets/arrow.png"
+		}
+	]
+}

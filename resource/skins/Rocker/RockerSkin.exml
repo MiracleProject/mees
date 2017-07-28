@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="RockerSkin" width="195" height="195" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="circle" source="circle_png" x="0" y="5" width="195" height="195"/>
+	<e:Image id="arrow" x="95" y="27" source="arrow_png" width="48" anchorOffsetX="24" anchorOffsetY="14"/>
+	<e:Image id="ball" source="ball_png" anchorOffsetX="50" anchorOffsetY="50" width="100" height="100" x="40" y="40"/>
+
+</e:Skin>

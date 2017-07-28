@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="MainSkin" width="640" height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<w:Config id="15d2abe5adb"/>
+	<e:Image id="Btn_test" source="egret_icon_png" y="595" horizontalCenter="218.5"/>
+	<e:Label id="Lab_up" text="上" x="524" y="782" fontFamily="yahei" size="30" bold="true"/>
+	<e:Label id="Lab_down" text="下" x="524" y="860" fontFamily="yahei" size="30" bold="true"/>
+	<e:Label id="Lab_left" text="左" x="478" y="820" fontFamily="yahei" size="30" bold="true"/>
+	<e:Label id="Lab_right" text="右" x="568" y="820" fontFamily="yahei" size="30" bold="true"/>
+</e:Skin>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="RockerSkin" width="600" height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="Btn_bomb" source="bomb_png" horizontalCenter="151.5" verticalCenter="158.5"/>
+
+
+</e:Skin>
